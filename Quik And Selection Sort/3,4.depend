@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1458147794 source:c:\users\norha\desktop\3,4\main.cpp
+	<iostream>
+	"Testbed.h"
+
+1458114113 source:c:\users\norha\desktop\3,4\quicksort.cpp
+	"QuickSort.h"
+	<bits/stdc++.h>
+
+1458149450 c:\users\norha\desktop\3,4\quicksort.h
+	"Sorter.h"
+
+1457711138 c:\users\norha\desktop\3,4\sorter.h
+	<bits/stdc++.h>
+
+1457703015 source:c:\users\norha\desktop\3,4\selectionsorter.cpp
+	"SelectionSorter.h"
+	<bits/stdc++.h>
+
+1458149464 c:\users\norha\desktop\3,4\selectionsorter.h
+	"Sorter.h"
+
+1457597924 source:c:\users\norha\desktop\3,4\sorter.cpp
+	"Sorter.h"
+
+1458147336 source:c:\users\norha\desktop\3,4\testbed.cpp
+	"Testbed.h"
+	<bits/stdc++.h>
+	"QuickSort.h"
+	"SelectionSorter.h"
+
+1458061201 c:\users\norha\desktop\3,4\testbed.h
+	"QuickSort.h"
+	"SelectionSorter.h"
+	<bits/stdc++.h>
+
